@@ -1,11 +1,16 @@
 # 🚨 Disaster Response Logistics Optimization System (EOC)
 
-[![Web App](https://img.shields.io/badge/Platform-Web%20Application-38bdf8.svg?logo=googlechrome)](index.html)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f.svg?logo=github)](https://gundatejaswi1609-jpg.github.io/disaster-response-logistics/)
+[![Localhost](https://img.shields.io/badge/Localhost-http%3A%2F%2Flocalhost%3A8085-3b82f6.svg)](http://localhost:8085)
+[![Web App](https://img.shields.io/badge/Platform-Web%20Application-38bdf8.svg?logo=googlechrome)](https://gundatejaswi1609-jpg.github.io/disaster-response-logistics/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B%20Modules-f7df1e.svg?logo=javascript)](js/app.js)
 [![CSS3](https://img.shields.io/badge/Styling-Vanilla%20CSS3%20Glassmorphism-264de4.svg?logo=css3)](css/style.css)
 [![Canvas API](https://img.shields.io/badge/Map-HTML5%20Canvas%20Topology-ff5722.svg)](js/networkMap.js)
 [![DAA Project](https://img.shields.io/badge/Domain-Design%20%26%20Analysis%20of%20Algorithms-darkviolet.svg)](#-core-algorithms--computational-complexity)
 [![Architecture](https://img.shields.io/badge/Architecture-Single%20Page%20App%20(SPA)-teal.svg)](#-project-directory-structure)
+
+> 🌐 **Live Demo (GitHub Pages):** [https://gundatejaswi1609-jpg.github.io/disaster-response-logistics/](https://gundatejaswi1609-jpg.github.io/disaster-response-logistics/)  
+> 💻 **Localhost URL:** [http://localhost:8085](http://localhost:8085)
 
 An intelligent **Emergency Operations Center (EOC) Logistics & Supply Chain Optimization Platform** developed as an advanced **Design and Analysis of Algorithms (DAA)** project in modern Web format.
 
@@ -217,20 +222,27 @@ disaster-response-logistics/
 
 ## 🚀 Installation & Quick Start
 
-### Option 1: Double-Click Direct Launch
-Double-click [`index.html`](index.html) to open the application directly in any web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari).
+### 🌐 Live Deployment
+- **Live on GitHub Pages:** [https://gundatejaswi1609-jpg.github.io/disaster-response-logistics/](https://gundatejaswi1609-jpg.github.io/disaster-response-logistics/)
 
-### Option 2: Using Python (Recommended)
+### 💻 Running Locally (Localhost)
+
+#### Option 1: Using Python HTTP Server (Recommended)
 From the project root folder:
 ```bash
-python -m http.server 8085
+python3 -m http.server 8085
 ```
-Open your browser to: **`http://localhost:8085`**
+Open your browser to: **[http://localhost:8085](http://localhost:8085)**
 
-### Option 3: Using Node.js
+#### Option 2: Using Node.js
 ```bash
 npx serve .
 ```
+Open your browser to the local server link (e.g. **[http://localhost:3000](http://localhost:3000)** or **[http://localhost:5000](http://localhost:5000)**).
+
+#### Option 3: Double-Click Direct Launch
+Double-click [`index.html`](index.html) to open the application directly in any web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari).
+
 
 ---
 
